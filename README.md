@@ -17,3 +17,5 @@ Projects Section: This is the centerpiece of the portfolio. Each project will be
 Contact Section: A simple and accessible section containing links to professional profiles like LinkedIn and GitHub, along with an email address or a simple contact form. This provides a clear call-to-action for visitors who wish to get in touch.
 
 A key requirement of this project is its responsive design. The layout will be built using CSS Flexbox or Grid to ensure that it looks great and functions perfectly on all devices, from wide-screen desktops to mobile phones. This adaptability is essential for modern web development and showcases an understanding of user-centric design principles. The final deliverable will be a polished, professional, and fully functional portfolio that serves as an effective tool for career advancement.
+<img width="1876" height="998" alt="2" src="https://github.com/user-attachments/assets/562a7ab3-638d-4802-b62e-c68edfdbe8ad" />
+
